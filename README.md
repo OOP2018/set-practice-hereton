@@ -16,16 +16,22 @@ See [Collections-practice](https://skeoop.github.io/week4/Collections-practice) 
 Answer the questions in the exercises here. Push your answer and code to Github Classroom.
 
 * When you print elements in the set, are they in same order as you added them?
+
 -No.
 * what is the command to remove all elements from a `set`?
+
 -set.clear();
 * When you add elements in a different order and print them, did the order change?
+
 -Yes.
 * Can you add a duplicate "cat" and "dog" to set?
+
 -Yes. But Set will be remove duplicate elements later.
 
 * What is the result when you use TreeSet instead of HashSet?
+
 -I think its about ordering elements in TreeSet, TreeSet ordered by A-Za-z.
 
 * Could we make `setExplorer` work with either Set or List?  How?
+
 -Yes, by change "Set set" to "Collections set" in parameter in addAll and print method. 
